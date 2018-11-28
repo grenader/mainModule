@@ -297,6 +297,20 @@
       <artifactId>yuicompressor</artifactId>
       <version>2.4.8</version>
     </dependency>
+<!-- https://mvnrepository.com/artifact/struts/struts -->
+<dependency>
+    <groupId>struts</groupId>
+    <artifactId>struts</artifactId>
+    <version>1.0.2</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/struts/struts-el -->
+<dependency>
+    <groupId>struts</groupId>
+    <artifactId>struts-el</artifactId>
+    <version>1.1</version>
+</dependency>
+
+
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>

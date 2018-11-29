@@ -309,6 +309,12 @@
     <artifactId>struts-el</artifactId>
     <version>1.1</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports -->
+<dependency>
+    <groupId>net.sf.jasperreports</groupId>
+    <artifactId>jasperreports</artifactId>
+    <version>4.0.2</version>
+</dependency>
 
 
   </dependencies>
